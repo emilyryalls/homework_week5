@@ -35,27 +35,7 @@ while True:
         break  # Exit the loop
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # name = input("Enter your name to begin the game: ")
 # greeting = user_greeting(name)
 # print(greeting)
 # introduction_message("Welcome to Get into Tech Games 2025!", "Let's play a game of Rock... Paper... Scissors!", "Will you be able to beat me?", "Let's find out!")
-
-
-
-
